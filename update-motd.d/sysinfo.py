@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 #
 # landscape-sysinfo-mini.py -- a trivial re-implementation of the 
 # sysinfo printout shown on debian at boot time. No twisted, no reactor, just /proc & utmp
